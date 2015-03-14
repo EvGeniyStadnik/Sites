@@ -1,0 +1,17 @@
+$(document).ready(function(){
+		$('.a-sl-menu__link1').click(function(){
+			$('.b-slider').addClass('b-slider1'),
+			$('.b-slider').removeClass('b-slider2');
+			$('.b-slider').removeClass('b-slider3');
+		});
+		$('.a-sl-menu__link2').click(function(){
+			$('.b-slider').addClass('b-slider2'),
+			$('.b-slider').removeClass('b-slider1');
+			$('.b-slider').removeClass('b-slider3');
+		});
+		$('.a-sl-menu__link3').click(function(){
+			$('.b-slider').addClass('b-slider3'),
+			$('.b-slider').removeClass('b-slider1');
+			$('.b-slider').removeClass('b-slider2');
+		})
+})
