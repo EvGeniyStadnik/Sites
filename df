@@ -1,0 +1,26 @@
+[33ma48e7f5[m HEAD@{0}: reset: moving to a48e7f5e301ff8cdc740cbb365e47cd638992ca5
+[33m5da86b9[m HEAD@{1}: checkout: moving from master to develop
+[33m593d23a[m HEAD@{2}: checkout: moving from add-new-file to master
+[33m1d173ee[m HEAD@{3}: checkout: moving from master to add-new-file
+[33m593d23a[m HEAD@{4}: merge add-new-file: Merge made by the 'recursive' strategy.
+[33ma48e7f5[m HEAD@{5}: checkout: moving from add-new-file to master
+[33m1d173ee[m HEAD@{6}: checkout: moving from master to add-new-file
+[33ma48e7f5[m HEAD@{7}: checkout: moving from add-new-file to master
+[33m1d173ee[m HEAD@{8}: checkout: moving from 1d173eeafb2f7e109589458aaaf3e17b51aee2c7 to add-new-file
+[33m1d173ee[m HEAD@{9}: checkout: moving from master to 1d173ee
+[33ma48e7f5[m HEAD@{10}: checkout: moving from develop to master
+[33m5da86b9[m HEAD@{11}: merge add-new-file: Merge made by the 'recursive' strategy.
+[33ma48e7f5[m HEAD@{12}: checkout: moving from add-new-file to develop
+[33m1d173ee[m HEAD@{13}: commit: new file
+[33ma48e7f5[m HEAD@{14}: checkout: moving from develop to add-new-file
+[33ma48e7f5[m HEAD@{15}: checkout: moving from master to develop
+[33ma48e7f5[m HEAD@{16}: merge lp-concrit: Merge made by the 'recursive' strategy.
+[33md9a5f0f[m HEAD@{17}: checkout: moving from lp-concrit to master
+[33mfa25c63[m HEAD@{18}: checkout: moving from master to lp-concrit
+[33md9a5f0f[m HEAD@{19}: checkout: moving from lp-concrit to master
+[33mfa25c63[m HEAD@{20}: commit: new site concrit
+[33md9a5f0f[m HEAD@{21}: checkout: moving from master to lp-concrit
+[33md9a5f0f[m HEAD@{22}: checkout: moving from lp-concrit to master
+[33md9a5f0f[m HEAD@{23}: checkout: moving from master to lp-concrit
+[33md9a5f0f[m HEAD@{24}: checkout: moving from master to master
+[33md9a5f0f[m HEAD@{25}: commit (initial): first commit
