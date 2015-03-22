@@ -1,0 +1,207 @@
+[33mcommit a48e7f5e301ff8cdc740cbb365e47cd638992ca5[m
+Reflog: HEAD@{0} (evgeniy.stadnik <evgeniy.stadnik@gmail.com>)
+Reflog message: reset: moving to a48e7f5e301ff8cdc740cbb365e47cd638992ca5
+Author: evgeniy.stadnik <evgeniy.stadnik@gmail.com>
+Date:   Sat Mar 14 21:05:56 2015 +0200
+
+    Merge branch 'lp-concrit'
+
+[33mcommit 5da86b9ff6f320a8c8935fb3f53146182e75fec1[m
+Reflog: HEAD@{1} (evgeniy.stadnik <evgeniy.stadnik@gmail.com>)
+Reflog message: checkout: moving from master to develop
+Author: evgeniy.stadnik <evgeniy.stadnik@gmail.com>
+Date:   Sat Mar 21 23:36:11 2015 +0200
+
+    Merge branch 'add-new-file' into develop
+
+[33mcommit 593d23a969e1829ed70c9059ba5677c806f6c1fb[m
+Reflog: HEAD@{2} (evgeniy.stadnik <evgeniy.stadnik@gmail.com>)
+Reflog message: checkout: moving from add-new-file to master
+Author: evgeniy.stadnik <evgeniy.stadnik@gmail.com>
+Date:   Sun Mar 22 12:06:21 2015 +0200
+
+    Merge branch 'add-new-file'
+
+[33mcommit 1d173eeafb2f7e109589458aaaf3e17b51aee2c7[m
+Reflog: HEAD@{3} (evgeniy.stadnik <evgeniy.stadnik@gmail.com>)
+Reflog message: checkout: moving from master to add-new-file
+Author: evgeniy.stadnik <evgeniy.stadnik@gmail.com>
+Date:   Sat Mar 21 23:28:57 2015 +0200
+
+    new file
+
+[33mcommit 593d23a969e1829ed70c9059ba5677c806f6c1fb[m
+Reflog: HEAD@{4} (evgeniy.stadnik <evgeniy.stadnik@gmail.com>)
+Reflog message: merge add-new-file: Merge made by the 'recursive' strategy.
+Author: evgeniy.stadnik <evgeniy.stadnik@gmail.com>
+Date:   Sun Mar 22 12:06:21 2015 +0200
+
+    Merge branch 'add-new-file'
+
+[33mcommit a48e7f5e301ff8cdc740cbb365e47cd638992ca5[m
+Reflog: HEAD@{5} (evgeniy.stadnik <evgeniy.stadnik@gmail.com>)
+Reflog message: checkout: moving from add-new-file to master
+Author: evgeniy.stadnik <evgeniy.stadnik@gmail.com>
+Date:   Sat Mar 14 21:05:56 2015 +0200
+
+    Merge branch 'lp-concrit'
+
+[33mcommit 1d173eeafb2f7e109589458aaaf3e17b51aee2c7[m
+Reflog: HEAD@{6} (evgeniy.stadnik <evgeniy.stadnik@gmail.com>)
+Reflog message: checkout: moving from master to add-new-file
+Author: evgeniy.stadnik <evgeniy.stadnik@gmail.com>
+Date:   Sat Mar 21 23:28:57 2015 +0200
+
+    new file
+
+[33mcommit a48e7f5e301ff8cdc740cbb365e47cd638992ca5[m
+Reflog: HEAD@{7} (evgeniy.stadnik <evgeniy.stadnik@gmail.com>)
+Reflog message: checkout: moving from add-new-file to master
+Author: evgeniy.stadnik <evgeniy.stadnik@gmail.com>
+Date:   Sat Mar 14 21:05:56 2015 +0200
+
+    Merge branch 'lp-concrit'
+
+[33mcommit 1d173eeafb2f7e109589458aaaf3e17b51aee2c7[m
+Reflog: HEAD@{8} (evgeniy.stadnik <evgeniy.stadnik@gmail.com>)
+Reflog message: checkout: moving from 1d173eeafb2f7e109589458aaaf3e17b51aee2c7 to add-new-file
+Author: evgeniy.stadnik <evgeniy.stadnik@gmail.com>
+Date:   Sat Mar 21 23:28:57 2015 +0200
+
+    new file
+
+[33mcommit 1d173eeafb2f7e109589458aaaf3e17b51aee2c7[m
+Reflog: HEAD@{9} (evgeniy.stadnik <evgeniy.stadnik@gmail.com>)
+Reflog message: checkout: moving from master to 1d173ee
+Author: evgeniy.stadnik <evgeniy.stadnik@gmail.com>
+Date:   Sat Mar 21 23:28:57 2015 +0200
+
+    new file
+
+[33mcommit a48e7f5e301ff8cdc740cbb365e47cd638992ca5[m
+Reflog: HEAD@{10} (evgeniy.stadnik <evgeniy.stadnik@gmail.com>)
+Reflog message: checkout: moving from develop to master
+Author: evgeniy.stadnik <evgeniy.stadnik@gmail.com>
+Date:   Sat Mar 14 21:05:56 2015 +0200
+
+    Merge branch 'lp-concrit'
+
+[33mcommit 5da86b9ff6f320a8c8935fb3f53146182e75fec1[m
+Reflog: HEAD@{11} (evgeniy.stadnik <evgeniy.stadnik@gmail.com>)
+Reflog message: merge add-new-file: Merge made by the 'recursive' strategy.
+Author: evgeniy.stadnik <evgeniy.stadnik@gmail.com>
+Date:   Sat Mar 21 23:36:11 2015 +0200
+
+    Merge branch 'add-new-file' into develop
+
+[33mcommit a48e7f5e301ff8cdc740cbb365e47cd638992ca5[m
+Reflog: HEAD@{12} (evgeniy.stadnik <evgeniy.stadnik@gmail.com>)
+Reflog message: checkout: moving from add-new-file to develop
+Author: evgeniy.stadnik <evgeniy.stadnik@gmail.com>
+Date:   Sat Mar 14 21:05:56 2015 +0200
+
+    Merge branch 'lp-concrit'
+
+[33mcommit 1d173eeafb2f7e109589458aaaf3e17b51aee2c7[m
+Reflog: HEAD@{13} (evgeniy.stadnik <evgeniy.stadnik@gmail.com>)
+Reflog message: commit: new file
+Author: evgeniy.stadnik <evgeniy.stadnik@gmail.com>
+Date:   Sat Mar 21 23:28:57 2015 +0200
+
+    new file
+
+[33mcommit a48e7f5e301ff8cdc740cbb365e47cd638992ca5[m
+Reflog: HEAD@{14} (evgeniy.stadnik <evgeniy.stadnik@gmail.com>)
+Reflog message: checkout: moving from develop to add-new-file
+Author: evgeniy.stadnik <evgeniy.stadnik@gmail.com>
+Date:   Sat Mar 14 21:05:56 2015 +0200
+
+    Merge branch 'lp-concrit'
+
+[33mcommit a48e7f5e301ff8cdc740cbb365e47cd638992ca5[m
+Reflog: HEAD@{15} (evgeniy.stadnik <evgeniy.stadnik@gmail.com>)
+Reflog message: checkout: moving from master to develop
+Author: evgeniy.stadnik <evgeniy.stadnik@gmail.com>
+Date:   Sat Mar 14 21:05:56 2015 +0200
+
+    Merge branch 'lp-concrit'
+
+[33mcommit a48e7f5e301ff8cdc740cbb365e47cd638992ca5[m
+Reflog: HEAD@{16} (evgeniy.stadnik <evgeniy.stadnik@gmail.com>)
+Reflog message: merge lp-concrit: Merge made by the 'recursive' strategy.
+Author: evgeniy.stadnik <evgeniy.stadnik@gmail.com>
+Date:   Sat Mar 14 21:05:56 2015 +0200
+
+    Merge branch 'lp-concrit'
+
+[33mcommit d9a5f0f8ae5806e3ca27c9448dacd4849bb8f4b6[m
+Reflog: HEAD@{17} (evgeniy.stadnik <evgeniy.stadnik@gmail.com>)
+Reflog message: checkout: moving from lp-concrit to master
+Author: Evgeniy Stadnik <evgeniy.stadnik@gmail.com>
+Date:   Sun Mar 8 23:25:56 2015 +0200
+
+    first commit
+
+[33mcommit fa25c631ca6a42bc233ef0ae87ceaccf2100cc32[m
+Reflog: HEAD@{18} (evgeniy.stadnik <evgeniy.stadnik@gmail.com>)
+Reflog message: checkout: moving from master to lp-concrit
+Author: evgeniy.stadnik <evgeniy.stadnik@gmail.com>
+Date:   Sat Mar 14 20:54:58 2015 +0200
+
+    new site concrit
+
+[33mcommit d9a5f0f8ae5806e3ca27c9448dacd4849bb8f4b6[m
+Reflog: HEAD@{19} (evgeniy.stadnik <evgeniy.stadnik@gmail.com>)
+Reflog message: checkout: moving from lp-concrit to master
+Author: Evgeniy Stadnik <evgeniy.stadnik@gmail.com>
+Date:   Sun Mar 8 23:25:56 2015 +0200
+
+    first commit
+
+[33mcommit fa25c631ca6a42bc233ef0ae87ceaccf2100cc32[m
+Reflog: HEAD@{20} (evgeniy.stadnik <evgeniy.stadnik@gmail.com>)
+Reflog message: commit: new site concrit
+Author: evgeniy.stadnik <evgeniy.stadnik@gmail.com>
+Date:   Sat Mar 14 20:54:58 2015 +0200
+
+    new site concrit
+
+[33mcommit d9a5f0f8ae5806e3ca27c9448dacd4849bb8f4b6[m
+Reflog: HEAD@{21} (evgeniy.stadnik <evgeniy.stadnik@gmail.com>)
+Reflog message: checkout: moving from master to lp-concrit
+Author: Evgeniy Stadnik <evgeniy.stadnik@gmail.com>
+Date:   Sun Mar 8 23:25:56 2015 +0200
+
+    first commit
+
+[33mcommit d9a5f0f8ae5806e3ca27c9448dacd4849bb8f4b6[m
+Reflog: HEAD@{22} (evgeniy.stadnik <evgeniy.stadnik@gmail.com>)
+Reflog message: checkout: moving from lp-concrit to master
+Author: Evgeniy Stadnik <evgeniy.stadnik@gmail.com>
+Date:   Sun Mar 8 23:25:56 2015 +0200
+
+    first commit
+
+[33mcommit d9a5f0f8ae5806e3ca27c9448dacd4849bb8f4b6[m
+Reflog: HEAD@{23} (evgeniy.stadnik <evgeniy.stadnik@gmail.com>)
+Reflog message: checkout: moving from master to lp-concrit
+Author: Evgeniy Stadnik <evgeniy.stadnik@gmail.com>
+Date:   Sun Mar 8 23:25:56 2015 +0200
+
+    first commit
+
+[33mcommit d9a5f0f8ae5806e3ca27c9448dacd4849bb8f4b6[m
+Reflog: HEAD@{24} (evgeniy.stadnik <evgeniy.stadnik@gmail.com>)
+Reflog message: checkout: moving from master to master
+Author: Evgeniy Stadnik <evgeniy.stadnik@gmail.com>
+Date:   Sun Mar 8 23:25:56 2015 +0200
+
+    first commit
+
+[33mcommit d9a5f0f8ae5806e3ca27c9448dacd4849bb8f4b6[m
+Reflog: HEAD@{25} (Evgeniy Stadnik <evgeniy.stadnik@gmail.com>)
+Reflog message: commit (initial): first commit
+Author: Evgeniy Stadnik <evgeniy.stadnik@gmail.com>
+Date:   Sun Mar 8 23:25:56 2015 +0200
+
+    first commit

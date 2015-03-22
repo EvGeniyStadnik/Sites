@@ -1,0 +1,44 @@
+[33mcommit 7bb8b3511a4aaf9c8d95623f923479296bc7033f[m
+Merge: 5da86b9 a406a40
+Author: evgeniy.stadnik <evgeniy.stadnik@gmail.com>
+Date:   Sun Mar 22 14:13:20 2015 +0200
+
+    Merge branch 'add-new-file' into develop
+
+[33mcommit a406a40ccdad76f2b9309a7319de669d1160ba3c[m
+Author: evgeniy.stadnik <evgeniy.stadnik@gmail.com>
+Date:   Sun Mar 22 14:12:25 2015 +0200
+
+    text
+
+[33mcommit 5da86b9ff6f320a8c8935fb3f53146182e75fec1[m
+Merge: a48e7f5 1d173ee
+Author: evgeniy.stadnik <evgeniy.stadnik@gmail.com>
+Date:   Sat Mar 21 23:36:11 2015 +0200
+
+    Merge branch 'add-new-file' into develop
+
+[33mcommit 1d173eeafb2f7e109589458aaaf3e17b51aee2c7[m
+Author: evgeniy.stadnik <evgeniy.stadnik@gmail.com>
+Date:   Sat Mar 21 23:28:57 2015 +0200
+
+    new file
+
+[33mcommit a48e7f5e301ff8cdc740cbb365e47cd638992ca5[m
+Merge: d9a5f0f fa25c63
+Author: evgeniy.stadnik <evgeniy.stadnik@gmail.com>
+Date:   Sat Mar 14 21:05:56 2015 +0200
+
+    Merge branch 'lp-concrit'
+
+[33mcommit fa25c631ca6a42bc233ef0ae87ceaccf2100cc32[m
+Author: evgeniy.stadnik <evgeniy.stadnik@gmail.com>
+Date:   Sat Mar 14 20:54:58 2015 +0200
+
+    new site concrit
+
+[33mcommit d9a5f0f8ae5806e3ca27c9448dacd4849bb8f4b6[m
+Author: Evgeniy Stadnik <evgeniy.stadnik@gmail.com>
+Date:   Sun Mar 8 23:25:56 2015 +0200
+
+    first commit
