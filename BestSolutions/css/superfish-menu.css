@@ -1,0 +1,200 @@
+/* ======= Main menu variables ======= */
+/* ======= Sub menus common variables ======= */
+/* ======= First level sub menu variables ======= */
+/* ======= Second level sub menu variables ======= */
+nav {
+  float: right;
+  margin-top: 21px;
+}
+@media (max-width: 979px) {
+  nav {
+    float: none;
+    display: inline-block;
+  }
+}
+/* Main menu styles
+========================================================*/
+.sf-menu > li {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  float: left;
+  position: relative;
+  text-align: center;
+}
+.sf-menu > li + li {
+  margin-left: 27px;
+}
+.sf-menu > li > .sf-with-ul:after {
+  font-family: FontAwesome;
+  font-size: 10px;
+  position: absolute;
+  font-style: normal;
+  font-weight: normal;
+  text-decoration: none;
+  cursor: default;
+  content: "\f0d7";
+  color: #575757;
+  bottom: -10px;
+  left: 50%;
+  margin-left: -3px;
+  -webkit-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+}
+.sf-menu > li > a {
+  text-transform: uppercase;
+  font: 400 18px/18px "Fjalla One", sans-serif;
+  display: inline-block;
+  -webkit-transition: 0.3s all ease;
+  transition: 0.3s all ease;
+  color: #575757;
+}
+.sf-menu > li > a:hover {
+  color: #3d3d3d;
+  -webkit-transition: 0.3s all ease;
+  transition: 0.3s all ease;
+}
+.sf-menu > li > a:active {
+  background: transparent;
+  color: #3d3d3d;
+}
+.sf-menu .sfHover > a:after {
+  color: #3d3d3d;
+}
+.sf-menu > li.current > a {
+  color: #3d3d3d;
+}
+.sf-menu > li.current > a:before {
+  content: '';
+  width: 14px;
+  height: 8px;
+  display: block;
+  position: absolute;
+  background: url(../images/menu_active.png) no-repeat center 0;
+  left: 50%;
+  margin-left: -7px;
+  top: -14px;
+}
+.sf-menu > li.current > .sf-with-ul:after {
+  color: #3d3d3d;
+}
+.sf-menu > li.sfHover > a {
+  color: #3d3d3d;
+}
+.sf-menu a {
+  -webkit-transition: 0.3s all ease;
+  transition: 0.3s all ease;
+}
+.sf-menu a:hover {
+  -webkit-transition: 0.3s all ease;
+  transition: 0.3s all ease;
+}
+/* First level sub-menu styles
+========================================================*/
+.sf-menu ul {
+  display: none;
+  width: 180px;
+  font: 400 14px/14px "Fjalla One", sans-serif;
+  position: absolute;
+  top: 54px;
+  left: 50%;
+  margin-left: -90px;
+  background: #35ae92;
+  text-align: center;
+  padding: 28px 0 32px 0;
+  z-index: 2;
+}
+.sf-menu ul > li + li {
+  margin-top: 23px;
+}
+.sf-menu ul li {
+  position: relative;
+  display: block;
+}
+.sf-menu ul li > .sf-with-ul:after {
+  font-family: FontAwesome;
+  font-size: 10px;
+  position: absolute;
+  font-style: normal;
+  font-weight: normal;
+  text-decoration: none;
+  cursor: default;
+  content: "\f0da";
+  color: #575757;
+  bottom: -1px;
+  right: 15px;
+  -webkit-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+}
+.sf-menu ul li a {
+  color: #575757;
+  text-transform: none;
+}
+.sf-menu ul li a:hover {
+  color: #ffffff;
+}
+.sf-menu ul > .sfHover > a:after {
+  color: #ffffff;
+}
+.sf-menu ul li.sfHover > a {
+  color: #ffffff;
+}
+/* Second level sub-menu styles
+========================================================*/
+.sf-menu ul ul {
+  position: absolute;
+  top: -26px;
+  left: 180px;
+  margin-left: 0;
+  background: #3ebd9d;
+  padding: 17px 0 24px 0;
+  z-index: 4;
+  text-align: center;
+}
+.sf-menu ul ul li {
+  line-height: 27px;
+}
+.sf-menu ul ul li a {
+  color: #3d3d3d;
+  text-transform: none;
+  display: block;
+}
+.sf-menu ul ul li:hover {
+  background: #35ae92;
+}
+.sf-menu ul ul li:hover a {
+  color: #ffffff;
+}
+.sf-menu ul ul li + li {
+  margin-top: 8px;
+}
+@media only screen and (max-width: 767px) {
+  .sf-menu {
+    display: none;
+  }
+  nav {
+    width: 100%;
+    float: none;
+  }
+  .select-menu {
+    border-radius: none;
+    display: block;
+    text-transform: capitalize;
+    float: none;
+    color: #3ebd9d;
+    width: 100%;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    background: #ffffff;
+    font: 22px/28px "Fjalla One", sans-serif;
+    text-align: left;
+    border: 1px solid #c1c1c1;
+    padding: 2px 0;
+    position: relative;
+  }
+  .select-menu option {
+    text-align: left;
+    position: relative;
+  }
+}
+/*Core variables and mixins*/
